@@ -1,3 +1,3 @@
 # Algoritmit-ongelmanratkaisussa
 
-Algoritmit ongelmanratkaisussa kurssin tehtäviä
+Algoritmit ongelmanratkaisussa -kurssin tehtäviä
